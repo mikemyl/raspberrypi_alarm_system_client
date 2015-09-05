@@ -4,8 +4,8 @@
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>48</x>
-      <y>88</y>
+      <x>128</x>
+      <y>56</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -16,8 +16,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>416</x>
-      <y>88</y>
+      <x>496</x>
+      <y>56</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -28,8 +28,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>448</x>
-      <y>104</y>
+      <x>528</x>
+      <y>72</y>
       <w>24</w>
       <h>264</h>
     </coordinates>
@@ -39,8 +39,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>240</y>
+      <x>168</x>
+      <y>208</y>
       <w>384</w>
       <h>40</h>
     </coordinates>
@@ -52,8 +52,8 @@ getPassword()
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>264</y>
+      <x>168</x>
+      <y>232</y>
       <w>384</w>
       <h>32</h>
     </coordinates>
@@ -64,9 +64,9 @@ password</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>16</x>
-      <y>168</y>
-      <w>1408</w>
+      <x>96</x>
+      <y>136</y>
+      <w>1688</w>
       <h>416</h>
     </coordinates>
     <panel_attributes>loop
@@ -76,8 +76,8 @@ layer=-1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>320</y>
+      <x>168</x>
+      <y>280</y>
       <w>504</w>
       <h>32</h>
     </coordinates>
@@ -88,8 +88,8 @@ alarmDisarmed()</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>536</x>
-      <y>88</y>
+      <x>616</x>
+      <y>56</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -100,8 +100,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>568</x>
-      <y>104</y>
+      <x>648</x>
+      <y>72</y>
       <w>24</w>
       <h>504</h>
     </coordinates>
@@ -111,8 +111,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1032</x>
-      <y>88</y>
+      <x>1384</x>
+      <y>56</y>
       <w>160</w>
       <h>24</h>
     </coordinates>
@@ -123,19 +123,19 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1104</x>
-      <y>104</y>
+      <x>1456</x>
+      <y>72</y>
       <w>24</w>
-      <h>296</h>
+      <h>336</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;350.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;400.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>648</x>
-      <y>88</y>
+      <x>1000</x>
+      <y>56</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -146,8 +146,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
-      <y>360</y>
+      <x>1032</x>
+      <y>352</y>
       <w>448</w>
       <h>32</h>
     </coordinates>
@@ -158,8 +158,8 @@ alarmDisarmed()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>448</x>
-      <y>352</y>
+      <x>528</x>
+      <y>320</y>
       <w>24</w>
       <h>256</h>
     </coordinates>
@@ -171,9 +171,9 @@ alarmDisarmed()</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>32</x>
-      <y>296</y>
-      <w>1376</w>
+      <x>112</x>
+      <y>264</y>
+      <w>1640</w>
       <h>248</h>
     </coordinates>
     <panel_attributes>opt</panel_attributes>
@@ -182,8 +182,8 @@ alarmDisarmed()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>80</x>
-      <y>104</y>
+      <x>160</x>
+      <y>72</y>
       <w>24</w>
       <h>80</h>
     </coordinates>
@@ -193,8 +193,8 @@ alarmDisarmed()</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>88</x>
-      <y>368</y>
+      <x>168</x>
+      <y>336</y>
       <w>16</w>
       <h>40</h>
     </coordinates>
@@ -205,8 +205,8 @@ group=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>96</x>
-      <y>368</y>
+      <x>176</x>
+      <y>336</y>
       <w>104</w>
       <h>48</h>
     </coordinates>
@@ -218,8 +218,8 @@ group=1</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>344</y>
+      <x>168</x>
+      <y>304</y>
       <w>616</w>
       <h>32</h>
     </coordinates>
@@ -230,8 +230,8 @@ onAlarmDisarmed()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
-      <y>104</y>
+      <x>1032</x>
+      <y>72</y>
       <w>24</w>
       <h>504</h>
     </coordinates>
@@ -241,8 +241,8 @@ onAlarmDisarmed()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>80</x>
-      <y>408</y>
+      <x>160</x>
+      <y>376</y>
       <w>24</w>
       <h>200</h>
     </coordinates>
@@ -254,8 +254,8 @@ onAlarmDisarmed()</panel_attributes>
   <element>
     <type>CustomElementImpl</type>
     <coordinates>
-      <x>48</x>
-      <y>184</y>
+      <x>128</x>
+      <y>152</y>
       <w>129</w>
       <h>33</h>
     </coordinates>
@@ -279,8 +279,8 @@ for(String textline : textlines) {
   <element>
     <type>CustomElementImpl</type>
     <coordinates>
-      <x>56</x>
-      <y>296</y>
+      <x>136</x>
+      <y>264</y>
       <w>217</w>
       <h>33</h>
     </coordinates>
@@ -304,8 +304,8 @@ for(String textline : textlines) {
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>1096</x>
-      <y>384</y>
+      <x>1448</x>
+      <y>392</y>
       <w>240</w>
       <h>72</h>
     </coordinates>
@@ -315,8 +315,8 @@ for(String textline : textlines) {
   <element>
     <type>CustomElementImpl</type>
     <coordinates>
-      <x>1096</x>
-      <y>400</y>
+      <x>1448</x>
+      <y>408</y>
       <w>161</w>
       <h>33</h>
     </coordinates>
@@ -340,8 +340,8 @@ for(String textline : textlines) {
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1240</x>
-      <y>88</y>
+      <x>1592</x>
+      <y>56</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -352,8 +352,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1272</x>
-      <y>104</y>
+      <x>1624</x>
+      <y>72</y>
       <w>24</w>
       <h>504</h>
     </coordinates>
@@ -363,8 +363,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1112</x>
-      <y>416</y>
+      <x>1464</x>
+      <y>424</y>
       <w>184</w>
       <h>32</h>
     </coordinates>
@@ -375,8 +375,8 @@ stop()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1368</x>
-      <y>104</y>
+      <x>1720</x>
+      <y>72</y>
       <w>24</w>
       <h>504</h>
     </coordinates>
@@ -386,8 +386,8 @@ stop()</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>1336</x>
-      <y>88</y>
+      <x>1688</x>
+      <y>56</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -398,8 +398,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1112</x>
-      <y>464</y>
+      <x>1464</x>
+      <y>472</y>
       <w>280</w>
       <h>32</h>
     </coordinates>
@@ -410,19 +410,19 @@ sendMail(Text)</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1104</x>
-      <y>496</y>
+      <x>1456</x>
+      <y>504</y>
       <w>24</w>
-      <h>112</h>
+      <h>72</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;120.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>744</x>
-      <y>88</y>
+      <x>1096</x>
+      <y>56</y>
       <w>160</w>
       <h>24</h>
     </coordinates>
@@ -433,19 +433,19 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>808</x>
-      <y>104</y>
+      <x>1160</x>
+      <y>72</y>
       <w>24</w>
-      <h>328</h>
+      <h>352</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;390.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;420.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>680</x>
-      <y>392</y>
+      <x>1032</x>
+      <y>376</y>
       <w>152</w>
       <h>32</h>
     </coordinates>
@@ -456,8 +456,8 @@ disarm()</panel_attributes>
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>808</x>
-      <y>416</y>
+      <x>1160</x>
+      <y>408</y>
       <w>16</w>
       <h>104</h>
     </coordinates>
@@ -467,8 +467,8 @@ disarm()</panel_attributes>
   <element>
     <id>UMLFrame</id>
     <coordinates>
-      <x>816</x>
-      <y>424</y>
+      <x>1168</x>
+      <y>416</y>
       <w>232</w>
       <h>80</h>
     </coordinates>
@@ -478,8 +478,8 @@ disarm()</panel_attributes>
   <element>
     <type>CustomElementImpl</type>
     <coordinates>
-      <x>816</x>
-      <y>440</y>
+      <x>1168</x>
+      <y>432</y>
       <w>161</w>
       <h>33</h>
     </coordinates>
@@ -503,8 +503,8 @@ for(String textline : textlines) {
   <element>
     <id>UMLGeneric</id>
     <coordinates>
-      <x>928</x>
-      <y>88</y>
+      <x>1280</x>
+      <y>56</y>
       <w>80</w>
       <h>24</h>
     </coordinates>
@@ -515,8 +515,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>960</x>
-      <y>104</y>
+      <x>1312</x>
+      <y>72</y>
       <w>24</w>
       <h>504</h>
     </coordinates>
@@ -526,8 +526,8 @@ bg=yellow</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>816</x>
-      <y>464</y>
+      <x>1168</x>
+      <y>456</y>
       <w>168</w>
       <h>32</h>
     </coordinates>
@@ -538,8 +538,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>72</x>
-      <y>192</y>
+      <x>152</x>
+      <y>160</y>
       <w>24</w>
       <h>120</h>
     </coordinates>
@@ -549,8 +549,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>192</y>
+      <x>168</x>
+      <y>160</y>
       <w>24</w>
       <h>120</h>
     </coordinates>
@@ -560,8 +560,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>72</x>
-      <y>304</y>
+      <x>152</x>
+      <y>272</y>
       <w>24</w>
       <h>128</h>
     </coordinates>
@@ -571,8 +571,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>304</y>
+      <x>168</x>
+      <y>272</y>
       <w>24</w>
       <h>128</h>
     </coordinates>
@@ -582,8 +582,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>72</x>
-      <y>408</y>
+      <x>152</x>
+      <y>376</y>
       <w>40</w>
       <h>24</h>
     </coordinates>
@@ -593,8 +593,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>72</x>
-      <y>160</y>
+      <x>152</x>
+      <y>128</y>
       <w>40</w>
       <h>24</h>
     </coordinates>
@@ -604,8 +604,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>88</x>
-      <y>160</y>
+      <x>168</x>
+      <y>128</y>
       <w>24</w>
       <h>48</h>
     </coordinates>
@@ -615,8 +615,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>72</x>
-      <y>160</y>
+      <x>152</x>
+      <y>128</y>
       <w>24</w>
       <h>48</h>
     </coordinates>
@@ -626,8 +626,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1112</x>
-      <y>408</y>
+      <x>1464</x>
+      <y>416</y>
       <w>24</w>
       <h>112</h>
     </coordinates>
@@ -637,8 +637,8 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1096</x>
-      <y>408</y>
+      <x>1448</x>
+      <y>416</y>
       <w>24</w>
       <h>112</h>
     </coordinates>
@@ -648,12 +648,95 @@ disarm()</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1096</x>
-      <y>496</y>
+      <x>1448</x>
+      <y>504</y>
       <w>40</w>
       <h>24</h>
     </coordinates>
     <panel_attributes>lt=-</panel_attributes>
     <additional_attributes>10.0;10.0;30.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>728</x>
+      <y>56</y>
+      <w>80</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>_Server_
+_Interface_
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLGeneric</id>
+    <coordinates>
+      <x>864</x>
+      <y>56</y>
+      <w>80</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>_Client_
+_Interface_
+bg=yellow</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>760</x>
+      <y>80</y>
+      <w>24</w>
+      <h>496</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;600.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>896</x>
+      <y>80</y>
+      <w>24</w>
+      <h>496</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;600.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>896</x>
+      <y>328</y>
+      <w>160</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+onAlarmDisarmed()</panel_attributes>
+    <additional_attributes>10.0;20.0;180.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>760</x>
+      <y>320</y>
+      <w>160</w>
+      <h>32</h>
+    </coordinates>
+    <panel_attributes>lt=-&gt;
+onAlarmDisarmed()</panel_attributes>
+    <additional_attributes>10.0;20.0;180.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1160</x>
+      <y>504</y>
+      <w>24</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>lt=.</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
 </diagram>
