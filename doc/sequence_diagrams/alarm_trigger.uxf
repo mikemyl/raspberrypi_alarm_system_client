@@ -690,12 +690,12 @@ for(String textline : textlines) {
     <id>Relation</id>
     <coordinates>
       <x>156</x>
-      <y>222</y>
+      <y>216</y>
       <w>18</w>
-      <h>42</h>
+      <h>48</h>
     </coordinates>
     <panel_attributes>lt=.</panel_attributes>
-    <additional_attributes>10.0;10.0;10.0;50.0</additional_attributes>
+    <additional_attributes>10.0;10.0;10.0;60.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
